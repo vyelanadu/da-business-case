@@ -1,1 +1,1 @@
-# da-business-case
+# This repo is dedicated to all the use case that are solved as a part of EDA practise.
